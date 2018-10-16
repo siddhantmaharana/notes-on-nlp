@@ -1,0 +1,1248 @@
+Case 1:10-cv-08323-VM Document 1 Filed 11/03/10 Page 1 of 21
+
+UNITED STATES DISTRICT Cw-w ' i
+
+r r	
+
+k:
+
+SOUTHERN DISTRICT OF NEW YORK
+
+OPERATING ENGINEERS	
+CONSTRUCTION INDUSTRY AND
+MISCELLANEOUS PENSION FUND, 	
+Individually and on Behalf of All Others
+Similarly Situated,
+
+Plaintiff,
+
+vs.
+
+ITT EDUCATIONAL SERVICES, INC., 	
+KEVIN M. MODANY, and DANIEL M. 	
+FITZPATRICK,	
+
+Defendants.
+
+Ca 	
+
+^.
+
+; CLASS ACTION
+
+JURY TRIAL DEMANDED 
+
+V• S. Dl&,^ ,
+^jT
+NO .y^'P^,.
+
+OFN.Y.
+
+CLASS ACTION COMPLAINT FOR VIOLATIONS OF THE SECURITIES LAWS
+
+Case 1:10-cv-08323-VM Document 1 Filed 11/03/10 Page 2 of 21
+
+JURISDICTION AND VENUE
+
+1.
+
+Jurisdiction is conferred by §27 of the Securities Exchange Act of 1934 ("1934 Act").
+
+The claims asserted herein arise under §§10(b) and 20(a) of the 1934 Act, 15 U.S.C. §§78j(b) and
+
+78t(a), and U.S. Securities and Exchange Commission ("SEC") Rule lOb-5, 17 C.F.R. §240.10b-5.
+
+2.
+
+Venue is proper in this District pursuant to §27 of the 1934 Act. Many of the false
+
+and misleading statements were disseminated within this District.
+
+3.
+
+ITT Educational Services, Inc.'s ("ITT" or the "Company") is a national for-profit
+
+education company with campuses in many states, including several within New York. During the
+
+Class Period, no fewer than nine (9) market analysts located within this District provide extensive
+
+coverage of the Company, the statements made by defendants, and ITT's financial performance
+
+including, Argus, Bank of America Securities-Merrill Lynch, Barclays Capital, Gabelli & Company,
+
+J.P. Morgan, Morgan Stanley, Oppenheimer & Co. Inc., RBC Capital Markets, and UBS.
+
+4.
+
+In connection with the acts alleged in this Complaint, defendants, directly or
+
+indirectly, used the means and instrumentalities of interstate commerce, including, but not limited to,
+
+the mails, interstate telephone communications and the facilities of the national securities markets.
+
+INTRODUCTION
+
+5.
+
+This is a securities class action on behalf of all persons who purchased or otherwise
+
+acquired the common stock of ITT between October 23, 2008 and August 13, 2010, inclusive (the
+
+"Class Period"), against ITT and certain of its officers and/or directors for violations of the 1934
+
+Act. These claims are asserted against ITT and certain of its officers and/or directors who made
+
+materially false and misleading statements during the Class Period in press releases, analyst
+
+conference calls, and filings with the SEC.
+
+-1-
+
+Case 1:10-cv-08323-VM Document 1 Filed 11/03/10 Page 3 of 21
+
+6.
+
+ITT is a leading private college system focused on technology-oriented programs of
+
+study. The Company operates over 105 ITT Technical Institutes in 37 states which predominantly
+
+provide career-focused, degree programs to approximately 70,000 students.
+
+7.
+
+During the Class Period, defendants issued materially false and misleading statements
+
+regarding the Company's business and financial results. Specifically, defendants failed to disclose
+
+that the Company had been engaging in abusive and fraudulent recruiting and financial aid lending
+
+practices, thereby increasing ITT's student enrollment and revenues. As a result of defendants' false
+
+statements, ITT stock traded at artificially inflated prices during the Class Period, reaching a high of
+
+$133.21 per share on February 3, 2009.
+
+8.
+
+Then on August 13, 2010, after the market closed, the U.S. Department of Education
+
+released data on student-loan repayment rates at the nation's colleges and universities. The data
+
+showed that repayment rates were 54% at public colleges and 56% at private non-private institutions,
+
+compared to just 36% at for-profit colleges. Specifically, the data showed that the repayment rates at
+
+ITT were a mere 31 %.
+
+9.
+
+On this news, the price of ITT stock dropped 14.61%, or $9.40 per share, from a
+
+closing price of $64.33 on August 13, 2010, to a closing price of $54.93 per share on August 16,
+
+2010, the following trading day.
+
+10.
+
+The true facts, which were known by the defendants but concealed from the investing
+
+public during the Class Period, were as follows:
+
+(a)
+
+the Company failed to disclose that it had engaged in improper and deceptive
+
+recruiting and financial aid lending practices and, due to the government's scrutiny into the for-profit
+
+sector, the Company would be unable to continue these practices in the future;
+
+(b)
+
+the Company failed to maintain proper internal controls;
+
+-2-
+
+Case 1:10-cv-08323-VM Document 1 Filed 11/03/10 Page 4 of 21
+
+(c)
+
+many of the Company's programs were in jeopardy of losing their eligibility
+
+for federal financial aid; and
+
+(d)
+
+as a result of the foregoing, defendants' statements regarding the Company's
+
+financial performance and expected earnings were false and misleading and lacked a reasonable
+
+basis when made.
+
+11.
+
+As a result of defendants' false statements and omissions, ITT common stock traded
+
+at artificially inflated prices during the Class Period. However, after the above revelations seeped
+
+into the market, the Company's shares were hammered by massive sales, sending them down
+
+approximately 58.8% from their Class Period high.
+
+PARTIES
+
+12.
+
+Plaintiff Operating Engineers Construction Industry and Miscellaneous Pension Fund
+
+purchased ITT common stock as described in the attached certification and was damaged when the
+
+revelations described herein reached the marker and the artificial inflation was removed from the
+
+price of ITT stock.
+
+13.
+
+As set forth above, ITT is a for-profit college system focused on technology-oriented
+
+programs of study that conducts substantial business in New York.
+
+14.
+
+Defendant Kevin M. Modany, ("Modany") is, and at all relevant times was, Chief
+
+Executive Officer ("CEO"), and Chairman of the Board of ITT.
+
+15.
+
+Defendant Daniel M. Fitzpatrick, ("Fitzpatrick") is, and at all relevant times was,
+
+Chief Financial Officer ("CFO") of ITT. Fitzpatrick has also been the Executive Vice President of
+
+ITT since April 2009, and from June 2005 until March 2009, he served as the Senior Vice President
+
+of ITT.
+
+16.
+
+Defendants Modany and Fitzpatrick (the "Individual Defendants"), because of their
+
+positions with the Company, possessed the power and authority to control the contents of ITT's
+
+-3-
+
+Case 1:10-cv-08323-VM Document 1 Filed 11/03/10 Page 5 of 21
+
+quarterly reports, press releases and presentations to securities analysts, money and portfolio
+
+managers, and institutional investors, i.e., the market. They were provided with copies of the
+
+Company's reports and press releases alleged herein to be misleading prior to or shortly after their
+
+issuance and had the ability and opportunity to prevent their issuance or cause them to be corrected.
+
+Because of their positions with the Company, and their access to material non-public information
+
+available to them but not to the public, the Individual Defendants knew that the adverse facts
+
+specified herein had not been disclosed to and were being concealed from the public and that the
+
+positive representations being made were then materially false and misleading. The Individual
+
+Defendants are liable for the false statements pleaded herein.
+
+FRAUDULENT SCHEME AND COURSE OF BUSINESS
+
+17.
+
+Defendants are liable for: (i) making false statements; or (ii) failing to disclose
+
+adverse facts known to them about ITT. Defendants' fraudulent scheme and course of business that
+
+operated as a fraud or deceit on purchasers of ITT common stock was a success, as it: (i) deceived
+
+the investing public regarding ITT's prospects and business; (ii) artificially inflated the prices of ITT
+
+common stock; and (iii) caused plaintiff and other members of the Class to purchase ITT common
+
+stock at inflated prices and suffer economic loss when the revelations set forth herein reached the
+
+market.
+
+CLASS ACTION ALLEGATIONS
+
+18.
+
+Plaintiff brings this action as a class action pursuant to Rule 23 of the Federal Rules
+
+of Civil Procedure on behalf of all persons who purchased or otherwise acquired ITT common stock
+
+during the Class Period (the "Class"). Excluded from the Class are defendants and their families, the
+
+officers and directors of the Company, at all relevant times, members of their immediate families and
+
+their legal representatives, heirs, successors, or assigns and any entity in which defendants have or
+
+had a controlling interest.
+
+-4-
+
+Case 1:10-cv-08323-VM Document 1 Filed 11/03/10 Page 6 of 21
+
+19. The members of the Class are so numerous that joinder of all members is
+
+impracticable. The disposition of their claims in a class action will provide substantial benefits to
+
+the parties and the Court. ITT has more than thirty-three (33) million shares of stock outstanding,
+
+owned by hundreds if not thousands of persons.
+
+20. There is a well-defined community of interest in the questions of law and fact
+
+involved in this case. Questions of law and fact common to the members of the Class which
+
+predominate over questions which may affect individual Class members include:
+
+(a)
+
+(b)
+
+(c)
+
+whether the 1934 Act was violated by defendants;
+
+whether defendants omitted and/or misrepresented material facts;
+
+whether defendants' statements omitted material facts necessary to make the
+
+statements made, in light of the circumstances under which they were made, not misleading;
+
+(d)
+
+whether defendants knew or deliberately disregarded that their statements
+
+were false and misleading;
+
+(e)
+
+(f)
+
+of damages.
+
+whether the price of ITT common stock was artificially inflated; and
+
+the extent of damage sustained by Class members and the appropriate measure
+
+21.	
+
+Plaintiff's claims are typical of those of the Class because plaintiff and the Class
+
+sustained damages from defendants' wrongful conduct.
+
+22. Plaintiff will adequately protect the interests of the Class and has retained counsel
+
+experienced in class action securities litigation. Plaintiff has no interests which conflict with those
+
+of the Class.
+
+23.	
+
+A class action is superior to other available methods for the fair and efficient
+
+adjudication of this controversy.
+
+-5-
+
+	
+	
+Case 1:10-cv-08323-VM Document 1 Filed 11/03/10 Page 7 of 21
+
+BACKGROUND
+
+24.
+
+ITT is a provider of postsecondary degree programs in the United States. As of
+
+December 31, 2009, the Company offered master, bachelor and associate degree programs to
+
+approximately 80,000 students and had 125 locations (including 121 campuses and four learning
+
+sites) in 3 8 states. All of its institutions are authorized by the applicable education authorities of the
+
+states, in which they operate, and are accredited by an accrediting commission recognized by the
+
+United States Department of Education. The Company designs its education programs, after
+
+consultation with employers and other constituents, to help graduates prepare for careers in various
+
+fields involving their areas of study.
+
+DEFENDANTS' FALSE AND MISLEADING
+
+STATEMENTS ISSUED DURING THE CLASS PERIOD
+
+25.
+
+The Class Period begins on October 23, 2008. On that date, ITT issued a press
+
+release reporting third quarter 2008 earnings results. The Company reported an increase in new
+
+student enrollment of 19.4%, an increase in revenue of 16.7% to $254.3 million, and an increase in
+
+earnings per shares of 30.6% or $1.28 per share for the third quarter ended September 30, 2008.
+
+26.
+
+In response to the Company's strong third quarter 2008 earnings results, analysts at
+
+J.P. Morgan stated, "ITT knocked the cover off the ball opening the reporting season for the for-
+
+profit education services companies." Praising the Company's financial performance, analysts
+
+pointed to "strong enrollment results," and increased revenues as the some of the reasons ITT
+
+management raised the Company's 2008 guidance by 5 %.1
+
+27.
+
+On January 22, 2009, the Company issued a press release reporting fourth quarter and
+
+full-year 2008 earnings results. The Company reported an increase in new student enrollment of
+
+1 During the Class Period, some nine (9) analysts, located in New York issued more than fifty-five
+(55) analyst reports regarding ITT.
+
+-6-
+
+Case 1:10-cv-08323-VM Document 1 Filed 11/03/10 Page 8 of 21
+
+29.2%, an increase in revenues of 21.4% to $279.8 million, and an increase in earnings per share of
+
+34.2% to $1.61 per share for the fourth quarter ended December 31, 2008.
+
+28.
+
+In response to the Company's better than expected financial results, analysts from
+
+Morgan Stanley raised their estimates and price targets for ITT common stock from $97 to $140, to
+
+reflect Wall Street's expectation for continued strong enrollment and financial performance at ITT.
+
+29.
+
+On April 23, 2009, the Company issued a press release reporting first quarter 2009
+
+earnings results. The Company reported an increase in new student enrollment of 36.8%, an
+
+increase in revenues of 22.6% to $288.0 million, and an increase in earnings per share of 47.2% to
+
+$1.59 per share for the first quarter ended March 31, 2009.
+
+30.
+
+In response to the Company's positive financial results, Morgan Stanley maintained a
+
+positive rating on ITT, citing the Company's "exceptionally strong enrollment growth and lower-
+
+than-expected advertising rates...."
+
+31.
+
+On July 23, 2009, the Company issued a press release reporting second quarter 2009
+
+earnings results. The Company reported an increase in new student enrollment of 33.5%, an
+
+increase in revenues of 28.7% to $317.1 million, and an increase in earnings per share of 55.8% to
+
+$1.87 per share for the second quarter ended June 30, 2009.
+
+32.
+
+According to market analyst J.P. Morgan, ITT's second quarter 2009 financial results,
+
+included an "impressive" 33% increase in new student enrollment, which was the "highest growth
+
+level in recent history."
+
+33.
+
+On October 22, 2009, the Company issued a press release reporting third quarter 2009
+
+earnings results. The Company reported an increase in new student enrollment of 27.2%, an
+
+increase in revenues of 33.6% to $339.6 million, and an increase in earnings per share of 56.3% to
+
+$2.00 per share for the third quarter ended September 30, 2009.
+
+-7-
+
+Case 1:10-cv-08323-VM Document 1 Filed 11/03/10 Page 9 of 21
+
+34.
+
+On January 21, 2010, the Company issued apress release reporting fourth quarter and
+
+full-year 2010 earnings results. The Company reported an increase in new student enrollment of
+
+31.2%, an increase in revenues of 33.8% to $374.4 million, and an increase in earnings per share of
+
+59.0% to $2.56 per share for the fourth quarter ended December 31, 2009.
+
+35.
+
+The Company's upbeat financial news continued to positively influence market
+
+analysts. For example, analysts at Morgan Stanley maintained a positive rating on the Company,
+
+pointing to "solid Q4 results and issued F 10 guidance ahead of estimates." Additionally, in response
+
+to the Company's fourth quarter 2009 earnings release, on January 22, 2010, Oppenheimer increased
+
+its "2010 EPS estimate [for ITT] to $10.24" as a result of "continued revenue and income momentum
+
+plus an increased share repurchase outlook."
+
+36.
+
+On April 22, 2010, the Company issued a press release reporting first quarter 2010
+
+earnings results. The Company reported an increase in new student enrollment of 21.8%, an
+
+increase in revenues of 33.3% to $384.0 million, and an increase in earnings per share of 57.7% to
+
+$2.46 per share for the first quarter ended March 31, 2010.
+
+37.
+
+The Company's first quarter 2010 earnings release drew positive reactions from
+
+market analysts. Oppenheimer announced it was "increasing our 2010 EPS estimate to $10,90
+
+(+38% y/y) from $10.24 on an improved revenue and income outlook." Likewise, J.P. Morgan
+
+raised its 2010 EPS by $0.70 to $11.00, and 2011 EPS by $0.70 to $12.00 in response to the
+
+Company's reported financial results.
+
+38.
+
+On June 10, 2010, Senator Tom Harkin, chair of the U.S. Senate's Health, Education,
+
+Labor and Pensions Committee, announced that he would be holding a series of hearings to examine
+
+federal spending at for-profit colleges. The press release provided in pertinent part:
+
+Senator Tom Harkin (D-IA), Chairman of the Health, Education, Labor and Pensions
+(HELP) Committee, today announced that he plans to hold a series of hearings to
+examine federal education spending at for-profit higher education institutions. The
+hearings will begin June 24th.
+
+-8-
+
+Case 1:10-cv-08323-VM Document 1 Filed 11/03/10 Page 10 of 21
+
+"In the past two years we have made major new investments to expand federal
+financial aid," said Harkin. "Pell Grants and student loans now provide more than
+$20 billion to for-profit higher education companies every year. We need to ensure
+for-profit colleges are working well to meet the needs of students and not just
+shareholders. We owe it to students and taxpayers to make sure these dollars are
+being well spent."
+
+Between 1998 and 2008 the for-profit sector has grown from 550,000 students to 1.8
+million, a 225 percent increase. Students at for-profit institutions are borrowing
+more, and more frequently, than their peers at non-profit schools, and according to
+the Department of Education, one in five students who left a for-profit college in
+2007 defaulted on their loan within three years.
+
+The Committee will examine a broad range of issues related to the growing role of
+the for-profit higher education sector, including the scope and rapid growth of the
+federal investment in for-profit higher education and the corresponding opportunities
+and risks for students and taxpayers. Details on the first hearing will be available in
+the coming weeks.
+
+39.
+
+On June 16, 2010, the U.S. Department of Education announced that it was proposing
+
+new tougher regulations on the industry designed to protect college students and taxpayers from
+
+abusive or fraudulent practices.
+
+40.
+
+On June 24, 2010, the Senate held the first of its hearings entitled "Emerging Risk?
+
+An Overview of the Federal Investment in For-Profit Education."
+
+41.
+
+On July 22, 2010, the Company issued a press release reporting second quarter 2010
+
+earnings results. The Company reported an increase in new student enrollment of 10.1%, an
+
+increase in revenues of 26.7% to $401.8 million, and an increase in earnings per share of 50.3% to
+
+$2.78 per share for the second quarter ended June 30, 2010.
+
+42.
+
+In response to the Company's unexpected and disappointing quarter, Morgan Stanley
+
+cut its long-term forecast for the Company, pointing to "decelerating enrollment growth," lower
+
+placement rates, and the "looming threat of regulation/legislation."
+
+43.
+
+On August 3, 2010, news began to leak into the market concerning the findings from
+
+an undercover operation conducted by the U.S. Government Accountability Office ("GAO") on
+
+recruiting techniques used in the for-profit higher education industry.
+
+-9-
+
+Case 1:10-cv-08323-VM Document 1 Filed 11/03/10 Page 11 of 21
+
+44.
+
+As a result, on August 3, 2010, ITT stock declined 4.53%, or $3.74 per share, from a
+
+closing price of $82.63 on August 2, 2010, to a closing price of $78.89 on August 3, 2010. As news
+
+continued to come out concerning details of the government's investigation and the anticipated
+
+repercussions from the investigation on ITT's business and prospects, ITT stock continued to
+
+decline.
+
+45.
+
+For example, on August 3, 2010, the New York Times  published an article entitled
+
+"For-Profit Colleges Mislead Students, Report Finds," stating in pertinent part, as follows:
+
+Undercover investigators posing as students interested in enrolling at 15 for-profit
+colleges found that recruiters at four of the colleges encouraged prospective students
+to lie on their financial aid applications — and all 15 misled potential students about
+their programs' cost, quality and duration, or the average salary of graduates,
+according to a federal report.
+
+The report and its accompanying video are to be released publicly Wednesday by the
+Government Accountability Office, the auditing arm of Congress, at an oversight
+hearing on for-profit colleges by the Senate Committee on Health, Education Labor
+and Pensions.
+
+The report does not identify the colleges involved, but it includes both privately held
+and publicly traded institutions in Arizona, California, Florida, Illinois, Pennsylvania,
+Texas and Washington, D.C. According to the report, the colleges in question were
+chosen because they got nearly 90 percent of their revenues from federal aid, or they
+were in states that are among the top 10 recipients of Title IV money.
+
+The fast-growing for-profit education industry, which received more than $4 billion
+in federal grants and $20 billion in Department of Education loans last year, has
+become a source of concern, with many lawmakers suggesting that too much
+taxpayer money is being used to generate profits for the colleges, instead of
+providing students with a useful high-quality education.
+
+The report gave specific instances in which some colleges encouraged fraud. At one
+college in Texas, a recruiter encouraged the undercover investigator not to report
+$250,000 in savings, saying it was "not the government's business." At a
+Pennsylvania college, the financial representative told an undercover applicant who
+had reported a $250,000 inheritance that he should have answered "zero" when asked
+about money he had in savings — and then told him she would "correct" his form by
+reducing the reported assets to zero, a change she later confirmed by e-mail and
+voicemail.
+
+At a college in California, an undercover investigator was encouraged to list three
+nonexistent dependents on the financial aid application.
+
+Case 1:10-cv-08323-VM Document 1 Filed 11/03/10 Page 12 of 21
+
+In addition to the colleges that encouraged fraud, all the colleges made some
+deceptive statements. At one certificate program in Washington, for example, the
+admissions representative told the undercover applicant that barbers could earn
+$150,000 to $250,000 a year, when the vast majority earn less than $50,000 a year.
+And at an associate degree program in Florida, the report said, a prospective student
+was falsely told that the college was accredited by the same organization that
+accredits Harvard and the University of Florida.
+
+According to the report, courses in massage therapy and computer-aided drafting that
+cost $14,000 at a California for-profit college were presented as good values, when
+the same courses cost $520 at a local community college.
+
+Six colleges in four states told the undercover applicants that they could not speak
+with financial aid representatives or find out what grants and loans they were eligible
+for until they completed enrollment forms agreeing to become a student and paid a
+small application fee.
+
+And one Florida college owned by a publicly traded company told an undercover
+applicant that she needed to take a 50-question test, and answer 18 questions
+correctly, to be admitted — and then had a representative sit with her and coach her
+through the test. A representative at that college encouraged the applicant to sign an
+enrollment contract, while assuring her it was not legally binding.
+
+But in some instances, the report said, the applicants were given accurate and helpful
+information, about likely salaries and not taking out more loans than they needed
+
+46. On August 4, 2010, the GAO issued its report detailing its findings. At the request of
+
+Congress, the GAO undertook its investigation to determine if for-profit colleges engaged in
+
+fraudulent, deceptive or otherwise questionable marketing practices. The GAO's report cited many
+
+instances of abuse in the sector, finding that many of the companies in the industry – such as ITT –
+
+employed fraudulent and deceptive practices in their student recruitment, targeting students who
+
+used federal financial aid to pay for their schooling. The study was presented at a Senate education
+
+hearing held on August 4, 2010 as part of its ongoing inquiry into the for-profit sector. This was the
+
+second of the Senate's hearings on the industry, and was entitled "For Profit Schools: The Student
+
+Recruitment Experience."
+
+-11-
+
+Case 1:10-cv-08323-VM Document 1 Filed 11/03/10 Page 13 of 21
+
+47.
+
+On August 6, 2010, ITT filed a form 8-K, announcing that the Company received a
+
+request from the U.S. Senate Committee on Health, Education, Labor and Pensions relating to for-
+
+profits colleges and financial aid. The Company stated, as follows:
+
+On August 6, 2010, ITT Educational Services, Inc. (the "Company") announced that
+it has received a request for information and documents from the U.S. Senate
+Committee on Health, Education, Labor and Pensions (the "Committee") relating to
+the Committee's review of matters related to for-profit colleges receiving Title IV
+student financial aid. The Company understands that the request is one of 30 similar
+requests made to for-profit colleges in connection with the Committee's review.
+
+The request states that it seeks information and documents to more accurately
+understand how the Company uses Federal resources, including how it recruits and
+enrolls students, sets program price or tuition, determines financial aid including
+private or institutional loans, tracks attendance, handles withdrawal of students and
+return of Title IV dollars and manages compliance with the requirement that no more
+than 90% of revenues come from Title IV dollars. The request also seeks a complete
+understanding of the number of students who complete or graduate from programs
+offered by the Company, how many of those students find new work in their
+educational area, the debt levels of students enrolling and completing programs and
+how the Company tracks and manages the number of students who risk default
+within the cohort default rate window.
+
+The Committee requests detailed information about a broad range of the Company's
+business. The Company intends to cooperate with the Committee and to work with
+the Committee to provide the requested information in a manner that does not
+compromise the Company's sensitive proprietary operating and other information.
+The Committee has requested that the Company provide a portion of the specified
+information by August 26, 2010 and the remainder of the information by
+September 16, 2010.
+
+48.
+
+In response to this negative announcement, the price of ITT stock dropped 5.94%, or
+
+$4.48 per share, to close at $70.92 on August 6, 2010.
+
+49.
+
+Adverse market reaction continued in the following days as market analysts digested
+
+the impact of the Company's August 6, 2010 release. For example, on August 12, 2010, Barclay's
+
+Capital downgraded ITT stock from "overweight" to "equal weight" and lowered its price target for
+
+the Company by $38 to $121.
+
+-12-
+
+Case 1:10-cv-08323-VM Document 1 Filed 11/03/10 Page 14 of 21
+
+The Truth Is Revealed
+
+50.
+
+On August 13, 2010, after the market closed, the U.S. Department of Education
+
+released data on student-loan repayment rates at the nation's colleges and universities. The data
+
+showed that the repayment rates were 54% at public colleges and universities, 56% at private non-
+
+profit institutions and 36% at for-profit colleges. The data showed the repayment rates at ITT's
+
+schools were just 31%.
+
+51.
+
+In addition, the U.S. Department of Education proposed new regulations for programs
+
+to continue to be eligible to receive federal financial aid. The tests for eligibility would be based on
+
+repayment rates and debt-to-income loads. Under the proposed "gainful employment" regulations,
+
+programs would need to have a repayment rate of at least 45% to continue to be eligible for federal
+
+financial aid. The regulations if adopted will go into effect in July 2011. Based on the proposed
+
+regulations, many of ITT's programs are in jeopardy of losing their financial aid status.
+
+52.
+
+On this news, the price of ITT's stock plummeted an additional $9.40, or 14.61 % per
+
+share, from a closing price of $64.33 on August 13, 2010, to a closing price of $54.93 on August 16,
+
+2010, the next trading day.
+
+53.
+
+Also on August 16, 2010, New York-based analysts from Barclay's downgraded and
+
+cut ITT's rating to "equal weight" from "outperform." In downgrading the Company, Barclay's
+
+cited "regulatory uncertainty and the likelihood that scrutiny by Congress will continue beyond the
+
+end of the negotiated rulemaking process this fall...."
+
+54.
+
+The true facts, which were known by the defendants but concealed from the investing
+
+public during the Class Period, were as follows:
+
+(a) the Company failed to disclose that it had engaged in improper and deceptive
+
+recruiting and financial aid lending practices and, due to the government's scrutiny into the for-profit
+
+sector, the Company would be unable to continue these practices in the future;
+
+-13-
+
+Case 1:10-cv-08323-VM Document 1 Filed 11/03/10 Page 15 of 21
+
+(b)
+
+(c)
+
+the Company failed to maintain proper internal controls;
+
+many of the Company's programs were in jeopardy of losing their eligibility
+
+for federal financial aid; and
+
+(d)
+
+as a result of the foregoing, defendants' statements regarding the Company's
+
+financial performance and expected earnings were false and misleading and lacked a reasonable
+
+basis when made.
+
+55.
+
+As a result of defendants' false statements and omissions, ITT common stock traded
+
+at artificially inflated prices during the Class Period. However, after the above revelations seeped
+
+into the market, the Company's shares were hammered by massive sales, sending them down
+
+approximately 58.8% from their Class Period high.
+
+Additional Scienter Allegations
+
+56.
+
+As alleged herein, defendants acted with scienter in that defendants knew that the
+
+public documents and statements issued or disseminated in the name of the Company were
+
+materially false and misleading; knew that such statements or documents would be issued or
+
+disseminated to the investing public; and knowingly and substantially participated or acquiesced in
+
+the issuance or dissemination of such statements or documents as primary violations of the federal
+
+securities laws. As set forth elsewhere herein in detail, defendants, by virtue of their receipt of
+
+information reflecting the true facts regarding ITT, their control over, and/or receipt and/or
+
+modification of ITT allegedly materially misleading misstatements and/or their associations with the
+
+Company which made them privy to confidential proprietary information concerning ITT,
+
+participated in the fraudulent scheme alleged herein.
+
+LOSS CAUSATION/ECONOMIC LOSS
+
+57.
+
+During the Class Period, as detailed herein, the defendants made false and misleading
+
+statements and engaged in a scheme to deceive the market and a course of conduct that artificially
+
+-14-
+
+Case 1:10-cv-08323-VM Document 1 Filed 11/03/10 Page 16 of 21
+
+inflated the price of ITT publicly traded securities and operated as a fraud or deceit on Class Period
+
+purchasers of ITT publicly traded securities by misrepresenting the Company's business and
+
+prospects. Later, when the defendants' prior misrepresentations and fraudulent conduct became
+
+apparent to the market, the price of ITT publicly traded securities fell precipitously, as the prior
+
+artificial inflation came out of the price over time. As a result of their purchases of ITT common
+
+stock during the Class Period, plaintiff and other members of the Class suffered economic loss, i.e.,
+
+damages, under the federal securities laws when the above-described revelations reached the market
+
+and the artificial inflation was removed.
+
+NO SAFE HARBOR
+
+58.
+
+ITT's verbal "Safe Harbor" warnings accompanying its oral forward-looking
+
+statements ("FLS") issued during the Class Period were ineffective to shield those statements from
+
+liability.
+
+59.
+
+The defendants are also liable for any false or misleading FLS pleaded because, at the
+
+time each FLS was made, the speaker knew the FLS was false or misleading and the FLS was
+
+authorized and/or approved by an executive officer of ITT who knew that the FLS was false. None
+
+of the historic or present tense statements made by defendants were assumptions underlying or
+
+relating to any plan, projection or statement of future economic performance, as they were not stated
+
+to be such assumptions underlying or relating to any projection or statement of future economic
+
+performance when made, nor were any of the projections or forecasts made by defendants expressly
+
+related to or stated to be dependent on those historic or present tense statements when made.
+
+COUNT
+
+For Violation of §10(b) of the 1934 Act and Rule 10b-5
+
+Against All Defendants
+
+60.
+
+Plaintiff incorporates ¶¶1-59 by reference.
+
+-15-
+
+Case 1:10-cv-08323-VM Document 1 Filed 11/03/10 Page 17 of 21
+
+61. During the Class Period, defendants disseminated or approved the false statements
+
+specified above, which they knew or deliberately disregarded were misleading in that they contained
+
+misrepresentations and failed to disclose material facts necessary in order to make the statements
+
+made, in light of the circumstances under which they were made, not misleading.
+
+62.	
+
+Defendants violated § 10(b) of the 1934 Act and Rule l Ob-5 in that they:
+
+(a)
+
+(b)
+
+employed devices, schemes and artifices to defraud;
+
+made untrue statements of material facts or omitted to state material facts
+
+necessary in order to make the statements made, in light of the circumstances under which they were
+
+made, not misleading; or
+
+(c)
+
+engaged in acts, practices and a course of business that operated as a fraud or
+
+deceit upon plaintiff and others similarly situated in connection with their purchases of ITT common
+
+stock during the Class Period.
+
+63. Plaintiff and the Class have suffered damages in that, in reliance on the integrity of
+
+the market, they paid artificially inflated prices for ITT common stock. Plaintiff and the Class would
+
+not have purchased ITT common stock at the prices they paid, or at all, if they had been aware that
+
+the market prices had been artificially and falsely inflated by defendants' misleading statements.
+
+COUNT II
+
+For Violation of §20(a) of the 1934 Act
+
+Against All Defendants
+
+	64.	
+
+Plaintiff incorporates ¶¶1-59 by reference.
+
+65. The Individual Defendants acted as controlling persons of ITT within the meaning of
+
+§20(a) of the 1934 Act. By reason of their positions with the Company, and their ownership of ITT
+
+common stock, the Individual Defendants had the power and authority to cause ITT to engage in the
+
+wrongful conduct complained of herein. ITT controlled the Individual Defendants and all of its
+
+employees. By reason of such conduct, defendants are liable pursuant to §20(a) of the 1934 Act.
+
+-16-
+
+	
+Case 1:10-cv-08323-VM Document 1 Filed 11/03/10 Page 18 of 21
+
+PRAYER FOR RELIEF
+
+WHEREFORE, plaintiff prays for judgment as follows:
+
+A.
+
+B.
+
+C.
+
+D.
+
+Declaring this action to be a proper class action pursuant to Fed. R. Civ. P. 23;
+
+Awarding plaintiff and the members of the Class damages, including interest;
+
+Awarding plaintiff reasonable costs and attorneys' fees; and
+
+Awarding such equitable/injunctive or other relief as the Court may deem just
+
+and proper.
+
+JURY DEMAND
+
+Plaintiff demands a trial by jury.
+
+DATED: November 3, 2010 	
+
+ROBBINS GELLER RUDMAN
+& DOWD LLP
+
+r41/ 
+
+SAMUEL H. RUDMAN
+
+SAMUEL H. RUDMAN
+ROBERT M. ROTHMAN
+58 South Service Road, Suite 200
+Melville, NY 11747
+Telephone: 631/367-7100
+631/367-1173 (fax)
+
+ROBBINS GELLER RUDMAN
+& DOWD LLP
+DAVID J. GEORGE
+PAUL J. GELLER
+ROBERT J. ROBBINS
+120 E. Palmetto Park Road, Suite 500
+Boca Raton, FL 33432
+Telephone: 561/750-3000
+561/750-3364 (fax)
+
+Attorneys for Plaintiff
+
+-17-
+
+Case 1:10-cv-08323-VM Document 1 Filed 11/03/10 Page 19 of 21
+
+CERTIFICATION OF NAMED PLAINTIFF
+
+PURSUANT TO FEDERAL SECURITIES LAWS
+
+OPERATING ENGINEERS CONSTRUCTION' INDUSTRY AND
+
+MISCELLANEOUS PENSION FUND ("Plaintiff") declares:
+
+1.	
+
+Plaintiff has reviewed a complaint and authorized its filing.
+
+? Plaintiff did not acquire the security that is the subject of this action at the
+
+direction of plaintiff's counsel or in order to participate in this private action or any
+
+other litigation under the federal securities laws.
+
+3.
+
+Plaintiff is willing to serve as a representative party on behalf of the
+
+class, including providing testimony at deposition and trial, if necessary,
+
+4.
+
+Plaintiff has made the following transaction(s) during the Class Period in
+
+the securities that are the subject of this action;,
+
+Security	
+
+Transaction	
+
+bate	
+
+Price Per  Share
+
+See attached Schedule A.
+
+5.
+
+Plaintiff has not sought to serve or served as a representative party in a
+
+class action that was filed tinder the federal securities laws within the three-year
+
+period prior to the date of this Certification except as detailed below:
+
+Ire re American Dental Por•tners, Inc. Sec; Litil; ,;No, 08 -cv-101194ZGS (D. Mass.)
+
+'114liar v Srar opla Ine, et al., No, 1:08-cv-00933-P C (S,I3.iN.Y.,)
+
+1sham, et al. ,, Perini C orl,7- et al_, No. 1:08-ev-I 1449-NMG (D. Mass.)
+
+6.
+
+The Plaintiff will not accept any payment for serving as a representative
+Party can behalf of the class beyond the .Plaintiff's pro rata share of any recovery,
+
+ITT ED1, XTIONA1,
+
+	
+	
+Case 1:10-cv-08323-VM Document 1 Filed 11/03/10 Page 20 of 21
+
+except such reasonable costs and expenses f including last wages) directly relating, to
+
+the representation of the class as ordered or approved by the court.
+
+I declare under penalty of perjury that the taregoing is true and correct,
+
+Executed this 4YTA day chi'  occ-Ibqp 	 12010..
+
+OPERATING ENGINEERS
+CON "mUC"I'IC► ;^l INDUSTRY AND
+MISCELLANEOUS PENSION FUND
+
+By:^
+
+Its:	
+
+r ,^.v,. asa rocd'roil 	
+
+ftd 1 01'. -6':I1i^k,1i
+
+Case 1:10-cv-08323-VM Document 1 Filed 11/03/10 Page 21 of 21
+
+SCHEDULE A
+
+SECURITIES TRANSACTIONS
+
+Type/Amount of
+
+Securities Acquired	
+
+67	
+139	
+106	
+77	
+44	
+35	
+27	
+25	
+59	
+146	
+91	
+89	
+105	
+88	
+38	
+54	
+35	
+66	
+101	
+169	
+81	
+48	
+28	
+
+Acquisitions
+
+Date	
+
+Acquired	
+
+11/03/2008	
+11/0412008	
+11/0512008	
+11/0612008	
+11/07/2008	
+1111012008	
+11/11/2008	
+11/1212008	
+11124/2008	
+12/04/2008	
+12108/2008	
+12/09/2008	
+12/1612008	
+12/18/2008	
+12/19/2008	
+12/2212008	
+12/3012008	
+01/05/2009	
+01/1612009	
+01/27/2009	
+0211012009	
+0211112009	
+0211212009	
+
+Price
+
+$88,03
+888.16
+$86.09
+$84.63
+$85.97
+$8872
+$8610
+$85,86
+$79.91
+$91.15
+$89,11
+$89.06
+$84.22
+$88.63
+$89,96
+$87.04
+$94.41
+$92.18
+$113.85
+$117.81
+S129,01
+$128.91
+$119.43
+
+*Opening position of 186 shares.
+
+
